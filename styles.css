@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+body
+{
+    background-color: #f8f8f8;
+    font-family: sans-serif;
+}
+.book
+{
+    padding: 10px;
+}
+
+.image
+{
+    text-align: center;
+}
+.book-name
+{
+    font-size: 25px;
+}
+.author
+{
+    color: #777777;
+    font-size: 15px;
+}
+.price-block
+{
+    text-align: center;
+    color: white;
+   background-color: #2ecc71;
+}
